@@ -2,7 +2,7 @@
 
 ## POC Plasmo Framwork Chrome Edge Firefox Browser Extension 
 
-#### NLP Tool ✪  Prompt Chaining ✪ Prompt Engineering ✪ Lexical Codification Process 
+#### NLP Tool ✪  Prompt Chaining ✪ Prompt Engineering ✪ Lexical Codification Process ✪ Plasmo Framework
 
 ![ChatGPTWordsmith](https://github.com/evanmeeks/chat-gpt-wordsmith/assets/18267052/e8343b85-03fa-4983-a2c6-701937bbb44d)
 
